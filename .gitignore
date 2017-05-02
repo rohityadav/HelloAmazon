@@ -1,0 +1,15 @@
+.idea/*
+!.idea/codeStyleSettings.xml
+*.iml
+.settings
+.project
+.classpath
+target
+logs
+integration_test/.idea/
+.DS_Store
+.java-version
+*.swp
+.bundle
+.jbundler
+vendor
